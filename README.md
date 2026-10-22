@@ -55,8 +55,6 @@ Este projeto consiste em um pipeline em Python (desenvolvido em Jupyter Notebook
 
 ```text
 ├── desafio-final.ipynb   # Notebook principal com todo o fluxo de processamento e análise
-├── transacoes.csv        # Base de dados de entrada (contendo registros válidos e inconsistências para teste)
-├── relatorio.json        # Arquivo gerado automaticamente com as métricas mensais consolidadas
 └── README.md             # Documentação do projeto
 ```
 
